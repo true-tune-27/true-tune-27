@@ -29,7 +29,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjumukesh&layout=donut&langs_count=7&theme=github_dark&hide_border=true&title_color=64ffda&bg_color=0d1117" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=true-tune-27&layout=donut&langs_count=7&theme=github_dark&hide_border=true&title_color=64ffda&bg_color=0d1117" />
 
 ### 👨‍💻 &nbsp;About Me
 
@@ -151,13 +151,13 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=manjumukesh&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=64ffda&icon_color=64ffda&bg_color=0d1117" />
-<img height="175" src="https://streak-stats.demolab.com?user=manjumukesh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=true-tune-27&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=64ffda&icon_color=64ffda&bg_color=0d1117" />
+<img height="175" src="https://streak-stats.demolab.com?user=true-tune-27&theme=github-dark-blue&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda" />
 
 </div>
 
 <div align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manjumukesh&theme=github-compact&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&hide_border=true&area=true&area_color=64ffda" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=true-tune-27&theme=github-compact&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&hide_border=true&area=true&area_color=64ffda" />
 </div>
 
 ---
