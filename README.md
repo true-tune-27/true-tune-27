@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=620&lines=Building+AI-Powered+Production+Systems;Flask+%C2%B7+React.js+%C2%B7+MongoDB+%C2%B7+Gemini+AI;RAG+Pipelines+%26+Biometric+Analytics;Hackathon+Finalist+%C2%B7+CGPA+9.06+%2F+10.0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=620&lines=Building+AI-Powered+Production+Systems;Flask+%C2%B7+React.js+%C2%B7+MongoDB+%C2%B7+Gemini+AI;RAG+Pipelines+%26+Biometric+Analytics;Hackathon+Finalist+%C2%B7+CGPA+9.10+%2F+10.0" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,7 +20,7 @@
 [![Email](https://img.shields.io/badge/Email-24P31A0585%40acet.ac.in-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24P31A0585@acet.ac.in)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_9490692101-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919490692101)
 &nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-9.06%2F10-%2364ffda?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.10%2F10-%2364ffda?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Internships-%2322c55e?style=for-the-badge)
 
 </div>
@@ -34,7 +34,7 @@
 ### 👨‍💻 &nbsp;About Me
 
 &nbsp;&nbsp;🎓 &nbsp;B.Tech CSE @ **Aditya College of Engineering & Technology**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surampalem — CGPA **9.06 / 10.0** (Batch 2024–28)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surampalem — CGPA **9.10 / 10.0** (Batch 2024–28)
 
 &nbsp;&nbsp;🔭 &nbsp;Currently building **AI-powered full-stack platforms**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with LLMs, biometric analytics & RAG pipelines
@@ -206,7 +206,7 @@
 
 <br/>
 
-<sub>Aditya College of Engineering & Technology · B.Tech CSE 2024–28 · CGPA 9.06 / 10</sub>
+<sub>Aditya College of Engineering & Technology · B.Tech CSE 2024–28 · CGPA 9.10 / 10</sub>
 
 <br/>
 
