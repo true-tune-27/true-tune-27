@@ -236,7 +236,7 @@
 ### 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-<sub><b>1,000+ contributions</b> in the last year across <b>6 repositories</b> · consistent problem-solving on LeetCode & CodeChef</sub>
+<sub><b>1,065 contributions</b> in the last year across <b>6 repositories</b> · consistent problem-solving on LeetCode & CodeChef</sub>
 </div>
 
 <br/>
